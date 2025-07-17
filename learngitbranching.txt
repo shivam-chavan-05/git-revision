@@ -1,2 +1,9 @@
 learngitbranching.js.org - Game to Learn Git
 
+git commit
+git branch [yourbranchname] - create a new branch
+git checkout [yourbranchname] - switch to a branch
+git checkout -b [yourbranchname] - create a new branch and switch to it
+git switch - experimentat dont use
+git merge [yourbranchname] - merge a branch into the current branch
+rebasing - git rebase [yourbranchname] - rebase a branch onto the current branch
